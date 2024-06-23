@@ -3,12 +3,19 @@
 }
 .nav{
     height:60px;
-    background-color :#332E3C;
+    background-color :#252229;
     display: flex;
+    align-items:center;
+    justify-content:center;
+    width:100%;
+    Position:fixed;
+    margin-top:-10px
+
 }
 .nav-logo{
     height:60px;
     width:95px;
+    
 }
 
 .logo{
@@ -16,6 +23,7 @@
     height:50px;
     width:100%;
     background-size:cover;
+
   
 
 }
@@ -25,15 +33,18 @@
   font-size:30px;
   font-weight:300;
     color: white;
+  
 }
 .name2{
-    color:white;
+ 
     margin-left:60px;
     font-size:20px;
     font-weight:300;
+    
 }
 .All, option{
-    margin: 23px 60px;
+  margin-left:60px;
+  margin-top:23px;
     height:20px;
     border-radius:5px;
     margin-right:0px
@@ -56,7 +67,7 @@
   }
 .Account{
     margin-left:60px ;
-    color: white;
+    
     font-weight:300;
  font-size:20px;
 }
@@ -69,7 +80,10 @@
 .dot{
     margin-left:90px;
     color:white ;
-    margin-top:21px;
+    margin-top:2px;
+    font-size:20px;
+    font-weight:300;
+    color:white;
 }
 .photo{
     background-image: url("https://www.shutterstock.com/image-photo/many-silver-metallic-white-wireless-260nw-1857030439.jpg");
@@ -107,7 +121,7 @@
 }
 
 .discount1{
-    background-color:blueviolet;
+ 
     width:250px;
     height:45px;
     text-align:center;
@@ -119,7 +133,7 @@ font-size:20px;
 
 }
 .discount2{
-    background-color:blueviolet;
+
     display: flex;
     justify-content:center;
 align-items:center;
@@ -208,5 +222,379 @@ width:250px;
     
     margin-left: 10px;margin-top:0px;margin-bottom:0px
  }
+pho2{
+    background-size:cover;
+    height:240px;
+    width:270px;
+    padding:20px opx 10px;
+    margin-left:15px;margin-top:px;margin-right:25px;margin-bottom:20px;
 
+}
+.see2{
+    margin-left:5px;
+    margin-top:0px
+}
+.io2{
+   
+    font-weight:400px ;
+    
+    margin-left: 10px;margin-top:0px;margin-bottom:0px
+ }
+.boxes{
+    display: flex;
+}
+.box1{
+    background-color:aquamarine;
+    border:3px  solid black ;
+    margin-top: 10px;
+    height:300px;
+    width:300px;
+    background-color:white;
+    
+}
+.hero1{
+    margin-top:0px;margin-bottom:0px;
+}
+.see5{
+    margin-top:0px;
+    margin-left:5px
+}
+.pho5{
+    background-color:#bdb6b6;
+    height:245px
+   
+}
+.yo{
+    margin-left:15px;margin-top:15px;margin-bottom:10px;
+    height:225px;
+    width:270px;
+    margin-right:5px;
+}
+.box2{
+    background-color:aquamarine;
+    border:3px  solid black ;
+    margin-top: 10px;
+    height:300px;
+    width:300px;
+    background-color:white;
+    margin-left:10px;
+    
+}
+.hero2{
+    margin-top:0px;margin-bottom:0px;
+}
+.see6{
+    margin-top:0px;
+    margin-left:5px
+}
+.pho6{
+    background-color:#bdb6b6;
+    height:245px
+   
+}
+.yo1{
+    margin-left:15px;margin-top:15px;margin-bottom:10px;
+    height:225px;
+    width:270px;
+    margin-right:5px;
+}
+.box3{
+    background-color:aquamarine;
+    border:3px  solid black ;
+    margin-top: 10px;
+    height:300px;
+    width:300px;
+    background-color:white;
+    margin-left:10px;
+    
+}
+.hero3{
+    margin-top:0px;margin-bottom:0px;
+}
+.see7{
+    margin-top:0px;
+    margin-left:5px
+}
+.pho7{
+    background-color:#bdb6b6;
+    height:245px
+   
+}
+.yo2{
+    margin-left:15px;margin-top:15px;margin-bottom:10px;
+    height:225px;
+    width:270px;
+    margin-right:5px;
+}
+.box4{
+    background-color:aquamarine;
+    border:3px  solid black ;
+    margin-top: 10px;
+    height:300px;
+    width:300px;
+    background-color:white;
+    margin-left:10px;
+    margin-bottom:0px
+    
+}
+.hero4{
+    margin-top:0px;margin-bottom:0px;
+}
+.see8{
+    margin-top:0px;
+    margin-left:5px
+}
+.pho8{
+    background-color:#bdb6b6;
+    height:245px
+   
+}
+.yo3{
+    margin-left:15px;margin-top:15px;margin-bottom:10px;
+    height:225px;
+    width:270px;
+    margin-right:5px;
+}
+.para5{
+    height:500px;
+    width: 100%;
+    background-color:lightcoral;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    border:4px solid black;
+}
+.about{
+   Font-size:40px ;
+   font-weight:600;
+   margin-top: -30px;
+   Text-decoration: underline;
+}
+.writing{
+    margin-top: -20px;
+    font-size:18px
+}
+.boxes{
+    display: flex;
+}
+.box1{
+    background-color:aquamarine;
+    border:3px  solid black ;
+    margin-top: 10px;
+    height:300px;
+    width:300px;
+    background-color:white;
+    
+}
+.hero1{
+    margin-top:0px;margin-bottom:0px;
+}
+.see5{
+    margin-top:0px;
+    margin-left:5px
+}
+.pho5{
+    background-color:#bdb6b6;
+    height:245px
+   
+}
+.yo{
+    margin-left:15px;margin-top:15px;margin-bottom:10px;
+    height:225px;
+    width:270px;
+    margin-right:5px;
+}
+.box2{
+    background-color:aquamarine;
+    border:3px  solid black ;
+    margin-top: 10px;
+    height:300px;
+    width:300px;
+    background-color:white;
+    margin-left:10px;
+    
+}
+.hero2{
+    margin-top:0px;margin-bottom:0px;
+}
+.see6{
+    margin-top:0px;
+    margin-left:5px
+}
+.pho6{
+    background-color:#bdb6b6;
+    height:245px
+   
+}
+.yo1{
+    margin-left:15px;margin-top:15px;margin-bottom:10px;
+    height:225px;
+    width:270px;
+    margin-right:5px;
+}
+.box3{
+    background-color:aquamarine;
+    border:3px  solid black ;
+    margin-top: 10px;
+    height:300px;
+    width:300px;
+    background-color:white;
+    margin-left:10px;
+    
+}
+.hero3{
+    margin-top:0px;margin-bottom:0px;
+}
+.see7{
+    margin-top:0px;
+    margin-left:5px
+}
+.pho7{
+    background-color:#bdb6b6;
+    height:245px
+   
+}
+.yo2{
+    margin-left:15px;margin-top:15px;margin-bottom:10px;
+    height:225px;
+    width:270px;
+    margin-right:5px;
+}
+.box4{
+    background-color:aquamarine;
+    border:3px  solid black ;
+    margin-top: 10px;
+    height:300px;
+    width:300px;
+    background-color:white;
+    margin-left:10px;
+    margin-bottom:0px
+    
+}
+.hero4{
+    margin-top:0px;margin-bottom:0px;
+}
+.see8{
+    margin-top:0px;
+    margin-left:5px
+}
+.pho8{
+    background-color:#bdb6b6;
+    height:245px
+   
+}
+.yo3{
+    margin-left:15px;margin-top:15px;margin-bottom:10px;
+    height:225px;
+    width:270px;
+    margin-right:5px;
+}
+.hoo{
+    background-color:#84A59D;
+    height:90px;
+    text-align:center;
+    color:rgb(81, 74, 74);
+    Margin-bottom:0px
+    Padding-top:10px;
+    
+}
+.last{
+    background-color:#97d30a;
+    height:400px;
+    margin-top:0px;
+    
+}
+.about{
+    display:flex ;
+    
+ 
+}
+.para9{
+    margin-left:200px;
+    width:300px;
+    font-weight:700px;
 
+    text-align:center;
+    font-size: 30px;
+    margin-bottom:0px;
+  padding:10px;
+
+}
+.para1{
+    margin-left:250px;
+    width:300px;
+    font-weight:700px;
+  
+    text-align:center;
+    font-size: 30px;
+    padding:10px;
+   
+}
+.names{
+    width:250px;
+
+    margin-left:250px;
+    font-size:20px;
+    margin-top:0px;
+}
+.names1{
+    width:300px;
+
+    margin-left:350px;
+    font-size:20px;
+    margin-top:0px;
+    
+    
+}
+.very{
+    display:flex;
+}
+.you{
+    background-color:bisque;
+    height:300px;
+    width:100%;
+
+ 
+}
+.bye{
+ text-align:center;
+ 
+}
+.para{
+
+width:250px;
+height:0px
+
+}
+@media screen and (max-width: 768px) {
+    /* Adjustments for smaller screens */
+    .nav {
+      height: auto; /* Allow height to adjust based on content */
+      flex-direction: column; /* Stack nav items vertically */
+    }
+    .nav-logo {
+      width: 80px; /* Adjust width for smaller screens */
+    }
+    .name2, .Account, .order, .dot {
+      margin-left: 0; /* Remove left margin for smaller screens */
+    }
+    .comment > p:nth-child(1) {
+      font-size: 2rem; /* Decrease font size for smaller screens */
+    }
+    /* Add more adjustments as needed */
+  }
+  
+  /* Additional Media Queries for even smaller screens */
+  @media screen and (max-width: 480px) {
+    /* Adjustments for very small screens */
+    .nav {
+      font-size: 0.8rem; /* Decrease font size for smaller screens */
+    }
+    /* Add more adjustments as needed */
+  }
+a:is(:link, :active, :visited).active{
+    color:black;
+    background-color:white;
+    
+}
